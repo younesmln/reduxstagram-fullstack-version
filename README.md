@@ -7,4 +7,9 @@ taking @wesbos learn redux course app reduxstagram to the next level (connecting
 * backend (nodejs and mongoose)
 * redux saga
 
+## todo
+- [x] fetching posts (loading and error state)
+- [ ] post like api call
+- [ ] fetching and creating comments (loading and error state)
+
 > [Redux course](https://www.youtube.com/watch?v=hmwBow1PUuo&list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy) from [@wesbos](https://github.com/wesbos)
